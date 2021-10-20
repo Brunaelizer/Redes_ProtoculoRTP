@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1634693827 source:d:\programação\projetos c++\redes_protocolortp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1634698866 source:d:\programação\projetos c++\redes_protocolortp_projeto2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<time.h>
+
